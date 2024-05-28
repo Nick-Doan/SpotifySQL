@@ -1,2 +1,2 @@
 # SpotifySQL
-SQL project using 30,000 songs
+SQLite project using 30,000 songs
